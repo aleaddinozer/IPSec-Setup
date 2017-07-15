@@ -1,5 +1,5 @@
 # IPSec-Setup
-You s.hould do each step for both host.
+You should do each step for both host.
 Computers should be connected to the same network.
 I have done IPSec conneciton between two Fedora 23 host.
 If you get any error youcan check with following command easily
